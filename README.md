@@ -19,4 +19,4 @@
 *   English)
 
 ## 	:gear: I'm working on
-*   Checkaers game
+*   Checkers game
