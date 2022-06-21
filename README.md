@@ -5,13 +5,14 @@
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/IeDeSy)
 
 ## 🛠 Technical Stack
-*   С++ language
+*   С++, Python languages
 *   MongoDB
 *   SFML library
+*   Django framework
 *   Basic knowledge of OOP, pointers (Unique, Shared, Weak), sockets, аlgorithms and data structures (graduated from the course from Tinkoff)
 
 ## :man_student: I'm studying now
-*   java language
+*   C# language
 *   SQL
 *   Boost library
 *   OOP, SOLID
